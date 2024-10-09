@@ -48,3 +48,5 @@
 
 - ## Contribuição
 Sinta-se à vontade para sugerir melhorias ou adicionar novas funções à biblioteca.
+
+### O aprendizado genuíno se baseia na originalidade. Em vez de copiar, busque entender e desenvolver suas próprias habilidades. <3
