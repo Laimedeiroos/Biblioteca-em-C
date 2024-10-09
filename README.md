@@ -21,23 +21,23 @@
 - ``ft_strlen`` - Calcula o comprimento de uma string.
 - ``ft_strdup`` - Duplica uma string.
 - ``ft_strcpy`` - Copia uma string.
-- ``ft_strncpy`` - Copia no máximo \`n\` caracteres de uma string.
+- ``ft_strncpy`` - Copia no máximo ``n`` caracteres de uma string.
 - ``ft_strcat`` - Concatena duas strings.
-- ``ft_strncat`` - Concatena no máximo \`n\` caracteres de uma string.
-- ``ft_strlcat`` - Concatena strings de forma segura (evita overflow).
+- ``ft_strncat`` - Concatena no máximo ``n`` caracteres de uma string.
+- ``ft_strlcat`` - Concatena strings de forma segura ``evita overflow``.
 - ``ft_strchr`` - Encontra a primeira ocorrência de um caractere em uma string.
 - ``ft_strrchr`` - Encontra a última ocorrência de um caractere em uma string.
 - ``ft_strstr`` - Encontra uma substring dentro de outra string.
-- ``ft_strnstr`` - Encontra uma substring em uma string limitada por \`n\` caracteres.
+- ``ft_strnstr`` - Encontra uma substring em uma string limitada por ``n`` caracteres.
 - ``ft_strcmp`` - Compara duas strings.
-- ``ft_strncmp`` - Compara no máximo \`n\` caracteres de duas strings.
+- ``ft_strncmp`` - Compara no máximo ``n`` caracteres de duas strings.
 
 ### **Conversão e Verificação**
 - ``ft_atoi`` - Converte uma string para um número inteiro.
 - ``ft_isalpha`` - Verifica se um caractere é uma letra.
 - ``ft_isdigit`` - Verifica se um caractere é um dígito.
 - ``ft_isalnum`` - Verifica se um caractere é alfanumérico.
-- ``ft_isascii`` - Verifica se um caractere pertence à tabela ASCII.
+- ``ft_isascii`` - Verifica se um caractere pertence à tabela ``ASCII``.
 - ``ft_isprint`` - Verifica se um caractere é imprimível.
 - ``ft_toupper`` - Converte um caractere para maiúsculo.
 - ``ft_tolower`` - Converte um caractere para minúsculo.
