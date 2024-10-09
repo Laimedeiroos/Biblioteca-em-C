@@ -45,3 +45,6 @@
 - ``Arquivos``: Contêm as implementações de cada função.
 - ``libft.h``: Arquivo de cabeçalho com os protótipos das funções.
 - ``Makefile``: Script de automação para compilar a biblioteca.
+
+- ## Contribuição
+Sinta-se à vontade para sugerir melhorias ou adicionar novas funções à biblioteca.
